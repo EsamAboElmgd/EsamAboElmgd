@@ -12,9 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EsamAboElmgd&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-[![](https://visitcount.itsvg.in/api?id=dsm;lcmds'&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EsamAboElmgd&icon=9&color=0)](https://visitcount.itsvg.in)
