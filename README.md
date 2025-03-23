@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Online store<br>👯 I’m looking to collaborate on Web Developing OR Bug Hunting<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning SOC Analyst<br>⚡ Artificial Intelligence Student
+🔭 I’m currently working on Machine Learning Model<br>👯 I’m looking to collaborate on Web Developing AND Bug Hunting<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning SOC Analyst<br>⚡ Artificial Intelligence Student
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/essamaboelmgd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@esam_m7md_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/essam-abo-elmgd-130288245)
